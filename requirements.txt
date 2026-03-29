@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+sentence-transformers
+huggingface_hub
+pinecone
+python-dotenv
+numpy
