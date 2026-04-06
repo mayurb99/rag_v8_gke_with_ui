@@ -7,6 +7,7 @@ st.title("RAG Q&A System")
 
 query = st.text_input("Ask a question:")
 
+
 if st.button("Submit"):
     if query:
         response = requests.post(
